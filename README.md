@@ -1,6 +1,6 @@
 # 7-ENOUGH
-This is my first 3D game in unity for android platform.The one who want's to destroy/enjoy tanks and experience how it feels like when we play hide and seek with big tanks in order to stay our tank safe from the range of enemy tank.
-<SPOILER> There is a special feature in it through which you can update weapons with the help of AUGMENTED REALITY.
+This is my first 3D game in unity for android platform.The one who want's to destroy/enjoy tanks and experience how it feels like when we play hide and seek with big tanks in order to stay safe from the range of enemy tank.
+<SPOILER> There is a special feature in it, which will update weapons with the help of AUGMENTED REALITY.
 -------------------------------------------------------------------------------------------------------------------------------------------
  MARKER FOR AUGMENTED REALITY FEATURE:
  ![IMG_20201231_121725](https://user-images.githubusercontent.com/72250606/103398639-a068cb80-4b63-11eb-8136-b18da7956fbb.jpg)
